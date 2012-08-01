@@ -5,4 +5,4 @@ extension to hide all of them.
 
 ![PicQuickBlocker Logo](https://github.com/swvist/PickQuickBlocker/raw/master/src/logo.png)
 
-Install the extension, click [here](https://github.com/downloads/swvist/PickQuickBlocker/PickQuickBlocker.crx)
+Install the extension, click [here](https://github.com/downloads/swvist/PickQuickBlocker/PickQuickBlocker.crx).
