@@ -1,7 +1,7 @@
 {
 		"name": "PickQuick Blocker",
 		"version": "1.0",
-		"manifest_version": 1,
+		"manifest_version": 2,
 		"description": "Making the Internet better!",
 		"permissions": [
 				"http://*.facebook.com/*",
@@ -24,6 +24,5 @@
 						],
 						"run_at": "document_start"
 				}
-				
 		]
 }
