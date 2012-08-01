@@ -21,7 +21,9 @@
 								"jquery-1.7.2.min.js",
 								"underscore-min.js",
 								"pickquick.js"
-						]
+						],
+						"run_at": "document_start"
 				}
+				
 		]
 }
