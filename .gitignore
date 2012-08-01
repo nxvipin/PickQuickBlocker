@@ -1,0 +1,8 @@
+# Temporary Files
+*~
+
+# Chrome App (crx)
+*.crx
+
+# Private Key (pem)
+*.pem
